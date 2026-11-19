@@ -81,7 +81,7 @@
 | Project | What it does | Result | Stack |
 |---|---|---|---|
 | **Brand Visual Identity Analyzer** | Computer vision that checks how consistent a brand looks across thousands of images, with a dashboard designed in Figma | **5,000+** images analysed | PyTorch · OpenCV · Figma |
-| **AI-Driven Viral Trend Predictor & Video Automator** | Spots rising social media trends and auto-generates a matching video rough cut | **85%** accuracy | Python · NLP · MoviePy · OpenAI API |
+| **[AI-Driven Viral Trend Predictor & Video Automator](https://github.com/m-shahmeer-kz/viral-trend-predictor)** | Predicts which trending YouTube videos last, spots rising topics and auto-cuts a beat-synced vertical video | **69%** accuracy on unseen months (52% baseline) | Python · NLP · scikit-learn · MoviePy · FastAPI |
 | **Automated Intelligent Parking Management System** | Real-time embedded system with sensor fusion and secure access control (final-year project) | **−40%** driver search time | C++ · Python · Arduino · IoT |
 | **High-Performance Real-Time Data Rendering Engine** | Low-latency visualisation of very large datasets | **1M+** points live, **−60%** memory | C++ · OpenGL · Pandas |
 
