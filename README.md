@@ -82,8 +82,8 @@
 |---|---|---|---|
 | **[Brand Visual Identity Analyzer](https://github.com/m-shahmeer-kz/brand-visual-identity-analyzer)** | Measures how consistently 50 brands look across 5,172 web images, with a [live dashboard](https://m-shahmeer-kz.github.io/brand-visual-identity-analyzer/) | **35/50** official colours matched · **56%** brand recognition (2% chance) | Python · OpenCV · PyTorch · scikit-learn |
 | **[AI-Driven Viral Trend Predictor & Video Automator](https://github.com/m-shahmeer-kz/viral-trend-predictor)** | Predicts which trending YouTube videos last, spots rising topics and auto-cuts a beat-synced vertical video | **69%** accuracy on unseen months (52% baseline) | Python · NLP · scikit-learn · MoviePy · FastAPI |
+| **[High-Performance Real-Time Data Rendering Engine](https://github.com/m-shahmeer-kz/realtime-rendering-engine)** | Draws 6.8M real Bitcoin prices in real time on desktop, in Python and in the browser, with a [live demo](https://m-shahmeer-kz.github.io/realtime-rendering-engine/) | **86×** faster than drawing every point · **−56%** memory vs pandas | C++ · OpenGL · Python · WebAssembly |
 | **Automated Intelligent Parking Management System** | Real-time embedded system with sensor fusion and secure access control (final-year project) | **−40%** driver search time | C++ · Python · Arduino · IoT |
-| **High-Performance Real-Time Data Rendering Engine** | Low-latency visualisation of very large datasets | **1M+** points live, **−60%** memory | C++ · OpenGL · Pandas |
 
 📖 Full case studies on my **[portfolio website](https://m-shahmeer-kz.github.io/)**.
 
