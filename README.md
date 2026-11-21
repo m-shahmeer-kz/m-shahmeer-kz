@@ -22,6 +22,7 @@
 ### 🧑‍💻 About me
 
 - 🤖 **Associate AI Engineer at VapourAI** (Feb 2025 – now): designing, building and deploying ML and AI solutions, with a focus on data preparation and automated model-training pipelines in **Python** and **FastAPI**.
+- 🧩 **AI Agent Skills Creator on [Agensi](https://www.agensi.io/creators/muhammad-shahmeer)** (Nov 2026 – now): I build and sell tested agent skills that make AI coding agents (Claude Code, Codex, Cursor, Gemini CLI) do data-science and AI-compliance work correctly: 3 paid, 3 free.
 - 🎨 **Freelance UI/UX Designer on Upwork** (Sep 2023 – now): high-fidelity wireframes, interactive prototypes and responsive interfaces in **Figma**, ready for developer handover.
 - 📊 **Social Media Marketing Volunteer at TugOnn Schweiz** (Jan 2026 – now): data-driven content growth for an international student audience.
 - 🛍️ Previously ran my own e-commerce store, **Beloved Bazaar**, on Daraz (2022 – 2024).
@@ -31,7 +32,7 @@
 
 - Building AI pipelines at VapourAI
 - Studying for an MSc in Data Science at Federico II
-- Rebuilding my project repositories here on GitHub, so watch this space
+- Building and selling AI-agent skills on [Agensi](https://www.agensi.io/creators/muhammad-shahmeer), and improving them as I go
 
 ---
 
