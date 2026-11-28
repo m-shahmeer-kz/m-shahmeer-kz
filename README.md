@@ -113,4 +113,3 @@
   <b>Open to UI/UX, AI engineering and data roles, freelance projects and content collaborations.</b><br>
   <a href="https://m-shahmeer-kz.github.io/#contact">Get in touch →</a>
 </p>
-
